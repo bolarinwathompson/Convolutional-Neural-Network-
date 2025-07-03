@@ -1,4 +1,4 @@
-# Image Search Engine for ABC Grocery [Convolutional Neural Network (CNN)]
+# Image Search Engine for ABC Grocery [using Convolutional Neural Network)
 
 ## Project Overview:
 The **ABC Grocery Image Search Engine** project utilizes a **Convolutional Neural Network (CNN)**, specifically a pre-trained **VGG16 model**, to create an image search system for ABC Grocery’s product catalogue. The goal is to find similar products based on a given query image, allowing for efficient product discovery and recommendation. By leveraging **transfer learning**, the VGG16 model extracts high-level feature vectors that represent the content of product images, enabling the system to compare and retrieve similar products.
